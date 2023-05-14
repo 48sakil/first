@@ -1,0 +1,15 @@
+.category {
+  max-width: 320px;
+  height: 120px;
+  background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.category-1 {
+  max-width: 320px;
+  height: 120px;
+  background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.category-2 {
+  max-width: 320px;
+  height: 120px;
+  background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}

@@ -1,0 +1,184 @@
+*{
+    padding:0;
+    margin: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+/* ============================================
+common css end
+============================================ */
+/* =================================
+      menu part start
+===================================== */
+.main_menu{
+    height: 100px;
+    line-height: 100px;
+}
+/* =================================
+      menu part end
+===================================== */
+/* ==================================
+banner part start
+======================================== */
+#banner{
+    border-radius: 10px;
+    padding: 100px 0 100px;
+    background: rgba(245, 218, 235, 0.737);
+}
+.banner_text{
+    padding: 20px;
+}
+.banner_text h2{
+    color:deeppink;
+}
+/* ==================================
+banner part end
+======================================== */
+
+
+/* ==================================
+catagori part start
+======================================== */
+.head_text h2{
+    text-transform: capitalize;
+    padding: 20px 0;
+    font-size: 50px;
+}
+.catagori_part{
+    padding: 20px 20px;
+    background: rgb(38, 90, 247);
+    line-height:20px;
+    border-radius: 10px;
+}
+.catagori_part:hover{
+    padding: 22px 22px;
+    background: rgb(243, 4, 231);
+}
+.watch{
+    padding: 20px 20px;
+    background: rgba(247, 76, 38, 0.822);
+    line-height:20px;
+    border-radius: 10px;
+}
+.catagori_part img{
+    text-align: center;
+    font-size: 10px;
+
+}
+.catagori_part h5{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    color:#fff;
+    padding-top: 20px;
+    
+}
+#catagori{
+    padding:20px;
+}
+/* ==================================
+catagori part end
+======================================== */
+/* ==================================
+shose part start
+======================================== */
+#shose{
+    padding:20px;
+    background: #ddd;
+}
+#shose h2{
+    font-size: 50px;
+}
+.shose_item{
+    background: #fff;
+    padding:20px;
+    transition:all linear .4s;
+}
+.shose_item:hover{
+    background: tomato;
+    color:#fff;
+    border-radius: 5px;
+}
+.shose_item:hover a{
+    background: black;
+    color:#fff;
+    font-weight: 700;
+}
+.shose_item h3{
+    text-transform: capitalize;
+}
+.shose_item h6{
+    font-size: 30px;
+}
+.shose_item a{
+    padding: 10px 15px;
+    background: rgb(255, 236, 28);
+    color: rgb(0, 55, 255);
+    font-weight: 700;
+    border-radius: 15px;
+    
+}
+/* ==================================
+shose part end
+======================================== */
+/* ==================================
+bag part start
+======================================== */
+#bag{
+    padding:20px;
+    background: #ddd;
+}
+#bag h2{
+    font-size: 50px;
+}
+.bag_item{
+    background: #fff;
+    padding:20px;
+    transition:all linear .4s;
+}
+.bag_item:hover{
+    background: tomato;
+    color:#fff;
+    border-radius: 5px;
+}
+.bag_item:hover a{
+    background: black;
+    color:#fff;
+    font-weight: 700;
+}
+.bag_item h3{
+    text-transform: capitalize;
+}
+.bag_item h6{
+    font-size: 30px;
+}
+.bag_item a{
+    padding: 10px 15px;
+    background: rgb(255, 236, 28);
+    color: rgb(0, 55, 255);
+    font-weight: 700;
+    border-radius: 15px;
+    
+}
+/* ==================================
+bag part end
+======================================== */
+/* ==================================
+footer part start
+======================================== */
+#footer{
+    padding:20px;
+}
+.register{
+    background: rgba(237, 177, 207, 0.676);
+    border-radius: 10px;
+    padding:100px 100px
+}
+/* ==================================
+footer part end
+======================================== */
